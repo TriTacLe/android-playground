@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oppskrifter</string>
+    <string name="tittel">Ukens oppskrifter</string>
+    <string name="merkelapp">Høst</string>
+    <string name="bilde_beskrivelse">Illustrasjon av høstgrønnsaker i et landskap</string>
+    <string name="knapp">Vis antall oppskrifter</string>
+    <string name="antall_toast">Listen har %1$d oppskrifter</string>
+    <string name="valgt_toast">Du valgte %1$s</string>
+    <string name="tid">%1$d min</string>
+</resources>
