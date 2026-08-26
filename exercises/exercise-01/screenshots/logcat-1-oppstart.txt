@@ -1,0 +1,4 @@
+--------- beginning of main
+08-26 16:08:01.364  5063  5063 W Livssyklus: onCreate
+08-26 16:08:01.372  5063  5063 D Livssyklus: onStart
+08-26 16:08:01.382  5063  5063 D Livssyklus: onResume
