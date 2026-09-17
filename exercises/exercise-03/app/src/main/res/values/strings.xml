@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Venner</string>
+    <string name="registered_count">%1$d registrert</string>
+    <string name="name_label">Navn</string>
+    <string name="birthday_label">Fødselsdato</string>
+    <string name="add_friend">Legg til venn</string>
+</resources>

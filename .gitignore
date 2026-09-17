@@ -4,3 +4,10 @@ local.properties
 *.iml
 .idea/
 .cxx/
+.kotlin/
+
+# AI tooling, never tracked
+.claude/
+CLAUDE.md
+DESIGN.md
+.mcp.json
