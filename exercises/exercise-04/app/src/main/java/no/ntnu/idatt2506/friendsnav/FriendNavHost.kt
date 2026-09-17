@@ -12,9 +12,6 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.toRoute
 
-// viewModel() is called once here, outside every composable<T> block, so all four
-// destinations share the one instance. Called inside a block, each destination would
-// own its own and the list would look empty from the form.
 @Composable
 fun FriendNavHost(
     modifier: Modifier = Modifier,
@@ -74,8 +71,6 @@ fun FriendNavHost(
     }
 }
 
-// Both form destinations differ only in their labels and what the button does,
-// so they share this wrapper and the one FriendForm below it.
 @Composable
 private fun FriendFormRoute(
     viewModel: FriendViewModel,

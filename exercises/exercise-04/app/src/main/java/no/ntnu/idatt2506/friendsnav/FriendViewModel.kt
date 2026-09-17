@@ -7,7 +7,6 @@ import kotlinx.coroutines.flow.asStateFlow
 
 class FriendViewModel : ViewModel() {
 
-    // The private flow is the one we write to. The public one can only be read.
     private val _friends = MutableStateFlow(listOf<Friend>())
     val friends: StateFlow<List<Friend>> = _friends.asStateFlow()
 
@@ -30,7 +29,6 @@ class FriendViewModel : ViewModel() {
         clearForm()
     }
 
-    // Replaces in place, so the list is the same length before and after.
     fun replaceFriend(index: Int) {
         val current = _friends.value
         if (index !in current.indices) return
@@ -40,7 +38,6 @@ class FriendViewModel : ViewModel() {
         clearForm()
     }
 
-    // Fills the form with the friend being edited, so the fields open with current values.
     fun loadFriendIntoForm(index: Int) {
         val friend = _friends.value.getOrNull(index) ?: return
         _name.value = friend.name

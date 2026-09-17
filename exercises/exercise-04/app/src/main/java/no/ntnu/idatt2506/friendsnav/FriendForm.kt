@@ -16,8 +16,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import no.ntnu.idatt2506.friendsnav.ui.theme.FriendsNavTheme
 
-// One form for both adding and editing. The caller decides the heading and the button label,
-// so nothing here needs to know which of the two it is doing.
 @Composable
 fun FriendForm(
     title: String,
