@@ -8,9 +8,6 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 
-// The nearest common parent of everything that needs the state, so it owns all three values.
-// The fields use rememberSaveable and survive rotation. The list uses remember and does not:
-// Friend is an ordinary data class that the saver cannot store, which is expected here.
 @Composable
 fun FriendScreenOwner(modifier: Modifier = Modifier) {
     var friends by remember { mutableStateOf(listOf<Friend>()) }

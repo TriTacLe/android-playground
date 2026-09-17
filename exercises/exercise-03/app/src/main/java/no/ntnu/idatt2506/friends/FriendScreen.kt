@@ -15,7 +15,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import no.ntnu.idatt2506.friends.ui.theme.FriendsTheme
 
-// Takes everything it draws and every event it raises. No state of its own.
 @Composable
 fun FriendScreen(
     friends: List<Friend>,

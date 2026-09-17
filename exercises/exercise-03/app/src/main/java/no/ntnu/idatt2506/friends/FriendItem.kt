@@ -12,7 +12,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import no.ntnu.idatt2506.friends.ui.theme.FriendsTheme
 
-// Owns nothing: the friend is passed in, so this previews on its own.
 @Composable
 fun FriendItem(friend: Friend, modifier: Modifier = Modifier) {
     Row(
