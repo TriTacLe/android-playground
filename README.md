@@ -5,7 +5,8 @@ Ovingene i emnet, høst 2026. Ett Android-prosjekt per oving under `exercises/`.
 | Oving | Mappe | Frist |
 | --- | --- | --- |
 | 1 Introduksjon og installasjon | `exercises/exercise-01` | 28.09.2026 |
-| 2 Composables, layout og tema | `exercises/exercise-02` | 28.08.2026 |
+| 2 Composables, layout og tema | `exercises/exercise-02` | 28.09.2026 |
+| 3 Tilstand og hendelser | `exercises/exercise-03` | 28.09.2026 |
 
 Hvert prosjekt bygges med sin egen Gradle wrapper:
 
