@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sockets-chat</string>
+    <string name="title_server">Tjener, %1$d tilkoblet</string>
+    <string name="title_client">Klient, %1$d tilkoblet</string>
+    <string name="pick_role">Velg rolle</string>
+    <string name="be_server">Vær tjener</string>
+    <string name="connect">Koble til</string>
+    <string name="message_label">Melding</string>
+    <string name="send">Send</string>
+</resources>
