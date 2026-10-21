@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Livssyklus</string>
-    <string name="forklaring">Se Logcat filtrert på taggen Livssyklus.</string>
+    <string name="explanation">Se Logcat filtrert på taggen LifecycleLog.</string>
 </resources>
