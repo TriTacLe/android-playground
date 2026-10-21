@@ -1,0 +1,4 @@
+--------- beginning of main
+10-21 14:17:51.865  4364  4364 W LifecycleLog: onCreate
+10-21 14:17:51.873  4364  4364 D LifecycleLog: onStart
+10-21 14:17:51.883  4364  4364 D LifecycleLog: onResume

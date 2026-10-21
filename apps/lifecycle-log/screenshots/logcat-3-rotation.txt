@@ -1,7 +1,0 @@
---------- beginning of main
-08-26 16:08:26.228  5063  5063 D Livssyklus: onPause
-08-26 16:08:26.234  5063  5063 D Livssyklus: onStop
-08-26 16:08:26.236  5063  5063 E Livssyklus: onDestroy
-08-26 16:08:26.258  5063  5063 W Livssyklus: onCreate
-08-26 16:08:26.260  5063  5063 D Livssyklus: onStart
-08-26 16:08:26.261  5063  5063 D Livssyklus: onResume

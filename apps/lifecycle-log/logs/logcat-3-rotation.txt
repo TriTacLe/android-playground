@@ -1,0 +1,7 @@
+--------- beginning of main
+10-21 14:18:03.358  4364  4364 D LifecycleLog: onPause
+10-21 14:18:03.362  4364  4364 D LifecycleLog: onStop
+10-21 14:18:03.368  4364  4364 E LifecycleLog: onDestroy
+10-21 14:18:03.485  4364  4364 W LifecycleLog: onCreate
+10-21 14:18:03.489  4364  4364 D LifecycleLog: onStart
+10-21 14:18:03.492  4364  4364 D LifecycleLog: onResume
