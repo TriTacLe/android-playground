@@ -17,7 +17,9 @@ Kotlin 2.3.21, compileSdk 36, minSdk 24.
 | [`socket-chat`](apps/socket-chat) | Raw TCP. The same app is either the `ServerSocket` end or the `Socket` end, and both read and write over the stream |
 | [`film-database`](apps/film-database) | Room and DataStore. JSON shipped in `res/raw` is read into three tables at startup, queried with `JOIN`, and a chosen background colour survives a restart |
 
-Each app has a `screenshots/` folder showing it running on an emulator.
+Each app has a `screenshots/` folder showing it running on an emulator, except
+`lifecycle-log`, which has `logs/` with the logcat output for startup, home and back, and
+rotation, since that is what there is to see.
 
 ## Building
 
