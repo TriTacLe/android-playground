@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Blade Runner",
+    "director": "Ridley Scott",
+    "actors": ["Harrison Ford", "Rutger Hauer", "Sean Young"]
+  },
+  {
+    "title": "Alien",
+    "director": "Ridley Scott",
+    "actors": ["Sigourney Weaver", "Tom Skerritt", "John Hurt"]
+  },
+  {
+    "title": "Fargo",
+    "director": "Joel Coen",
+    "actors": ["Frances McDormand", "William H. Macy", "Steve Buscemi"]
+  },
+  {
+    "title": "The Big Lebowski",
+    "director": "Joel Coen",
+    "actors": ["Jeff Bridges", "John Goodman", "Steve Buscemi"]
+  },
+  {
+    "title": "Kon-Tiki",
+    "director": "Joachim Rønning",
+    "actors": ["Pål Sverre Hagen", "Anders Baasmo Christiansen", "Gustaf Skarsgård"]
+  },
+  {
+    "title": "Oslo, 31. august",
+    "director": "Joachim Trier",
+    "actors": ["Anders Danielsen Lie", "Hans Olav Brenner", "Ingrid Olava"]
+  }
+]

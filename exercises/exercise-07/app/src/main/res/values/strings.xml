@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Filmdatabase</string>
+    <string name="settings">Innstillinger</string>
+    <string name="pick_view">Velg visning</string>
+    <string name="view_all_movies">Alle filmer</string>
+    <string name="view_movies_by_director">Filmer av en regissør</string>
+    <string name="view_actors_in_movie">Skuespillere i en film</string>
+    <string name="pick_director">Velg regissør</string>
+    <string name="pick_movie">Velg film</string>
+    <string name="local_file">Lokal fil: %1$s</string>
+    <string name="background_color">Bakgrunnsfarge</string>
+    <string name="color_none">Ingen</string>
+    <string name="color_blue">Blå</string>
+    <string name="color_green">Grønn</string>
+    <string name="color_red">Rød</string>
+</resources>
