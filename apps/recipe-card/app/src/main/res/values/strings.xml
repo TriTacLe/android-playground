@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Oppskrifter</string>
+    <string name="title">Ukens oppskrifter</string>
+    <string name="badge">Høst</string>
+    <string name="image_description">Illustrasjon av høstgrønnsaker i et landskap</string>
+    <string name="button">Vis antall oppskrifter</string>
+    <string name="count_toast">Listen har %1$d oppskrifter</string>
+    <string name="selected_toast">Du valgte %1$s</string>
+    <string name="time">%1$d min</string>
+</resources>
