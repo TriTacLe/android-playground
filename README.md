@@ -1,4 +1,4 @@
-# kotlin-android-apps
+# android-playground
 
 Seven small Android apps, one per topic. Each one is a standalone Gradle project that does a
 single thing, so the code for a topic can be read without wading through an app that also does
@@ -40,3 +40,7 @@ expects. If the endpoint is unreachable the app still builds and runs, but it ca
 Each app was built to work out one part of the platform on its own and the set grew in that order,
 from the lifecycle through state, navigation, networking and finally storage. The later ones lean
 on what the earlier ones settled, which is why they share a layout convention and a theme shape.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
