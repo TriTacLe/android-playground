@@ -1,4 +1,4 @@
-# compose-studies
+# kotlin-android-apps
 
 Seven small Android apps, one per topic. Each one is a standalone Gradle project that does a
 single thing, so the code for a topic can be read without wading through an app that also does
